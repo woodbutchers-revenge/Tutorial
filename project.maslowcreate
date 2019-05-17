@@ -102,8 +102,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
-                    "y": 164,
+                    "x": 1486,
+                    "y": 187.5,
                     "ioValues": []
                 }
             ],
@@ -152,8 +152,8 @@
                 {
                     "atomType": "Rectangle",
                     "name": "Rectangle",
-                    "x": 102,
-                    "y": 58,
+                    "x": 158,
+                    "y": 99,
                     "uniqueID": 632755,
                     "ioValues": [
                         {
@@ -324,8 +324,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
-                    "y": 164,
+                    "x": 1486,
+                    "y": 187.5,
                     "ioValues": []
                 }
             ],
